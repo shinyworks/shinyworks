@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "shinyworks",
+    "section": "",
+    "text": "We develop packages to make shiny better.\n\ncookies - Use Browser Cookies with ‘shiny’\nscenes - Switch Between Alternative ‘shiny’ UIs\nshinyfocus - Use Browser Focus Events in ‘shiny’\nshinysocial - Social Media Modules for ‘shiny’"
+  }
+]
