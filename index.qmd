@@ -1,0 +1,10 @@
+---
+title: "shinyworks"
+---
+
+We develop packages to make [shiny](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html) better.
+
+-   [cookies](https://cookies.shinyworks.org) - Use Browser Cookies with 'shiny'
+-   [scenes](https://scenes.shinyworks.org) - Switch Between Alternative 'shiny' UIs
+-   [shinyfocus](https://shinyfocus.shinyworks.org) - Use Browser Focus Events in 'shiny'
+-   [shinysocial](https://shinysocial.shinyworks.org) - Social Media Modules for 'shiny'

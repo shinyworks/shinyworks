@@ -1,0 +1,37 @@
+project:
+  type: website
+  resources:
+    - CNAME
+
+website:
+  title: "shinyworks"
+  repo-url: https://github.com/shinyworks/shinyworks
+  repo-actions: [edit, issue]
+  # google-analytics: "G-QQ1ZV766J5"
+  # cookie-consent: true
+  navbar:
+    # background: "#f0eeeb"
+    # logo: images/r4ds-logo-150px.png
+    # logo-alt: "R4DS Online Learning Community"
+    # title: false
+    tools:
+      - icon: mastodon
+        href: https://fosstodon.org/@shinyworks
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jonthegeek/
+      - icon: github
+        href: https://github.com/shinyworks/
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Us
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: flatly
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
