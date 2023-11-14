@@ -1,0 +1,17 @@
+Package: shinyworks
+Type: Book
+Title: shinyworks
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Jon", "Harmon", , "jonthegeek@gmail.com", role = c("aut", "cre", "cph"),
+           comment = c(ORCID = "0000-0003-4781-4346"))
+  )
+Description: This is only here for GHA dependencies.
+Depends:
+    R (>= 3.1.0)
+Encoding: UTF-8
+URL: https://shinyworks.org, https://github.com/shinyworks/shinyworks
+BugReports: https://github.com/shinyworks/shinyworks/issues
+Suggests: 
+    knitr,
+    rmarkdown
